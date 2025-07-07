@@ -69,7 +69,7 @@ public class Main {
         System.out.println("Задание №7");
 
         var result3 =secondboxer%firstboxer;
-        System.out.println("result=" + result3);
+        System.out.println("остаток=" + result3);
 
         System.out.println("Задание №8");
 
