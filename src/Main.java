@@ -58,13 +58,13 @@ public class Main {
         System.out.println("Задание №6");
 
         var firstboxer =78.2;
-        System.out.println("first boxer=" + firstboxer + "кг");
+        System.out.println("вес первого борца=" + firstboxer + "кг");
         var secondboxer=82.7;
-        System.out.println("second boxer=" + secondboxer + "кг");
+        System.out.println("вес второго борца=" + secondboxer + "кг");
         var result =firstboxer+secondboxer;
-        System.out.println("all boxers=" + result + "кг");
+        System.out.println("вес первого и второго борца=" + result + "кг");
         var result2=secondboxer-firstboxer;
-        System.out.println("difference=" + result2 + "кг");
+        System.out.println("разница в весе борцов=" + result2 + "кг");
 
         System.out.println("Задание №7");
 
